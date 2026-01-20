@@ -1,0 +1,6 @@
+hmmlearn
+librosa
+numpy
+tensorflow
+keras
+matplotlib
